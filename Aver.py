@@ -446,7 +446,10 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Título principal MÁS VISIBLE
-st.markdown('<h1 class="main-title">📊 CACULADORA DE PROGRAMACIÓN LINEAL AVANZADO</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-title">📊 CALCULADORA DE PROGRAMACIÓN LINEAL AVANZADO</h1>', unsafe_allow_html=True)
+st.markdown('<h2 class="main-title">📊 Diego Ale</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="main-title">📊 CALCULADORA DE PROGRAMACIÓN LINEAL AVANZADO</h2>', unsafe_allow_html=True)
+st.markdown('<h2 class="main-title">📊 CALCULADORA DE PROGRAMACIÓN LINEAL AVANZADO</h2>', unsafe_allow_html=True)
 
 # -------------------------------------------------------
 # MANEJO DE ESTADO
@@ -1276,4 +1279,5 @@ with st.sidebar:
     <div style="text-align: center; margin-top: 30px; color: rgba(255,255,255,0.7);">
         <small>© 2024 Solver PL - Herramienta Educativa</small>
     </div>
+
     """, unsafe_allow_html=True)
