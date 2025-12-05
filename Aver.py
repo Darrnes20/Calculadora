@@ -448,7 +448,7 @@ st.markdown("""
 # Título principal MÁS VISIBLE
 st.markdown('<h1 class="main-title">📊 CALCULADORA DE PROGRAMACIÓN LINEAL AVANZADO</h1>', unsafe_allow_html=True)
 st.markdown('<h3 class="main-title">📊 Diego Alejandro Ramirez Russi </h3>', unsafe_allow_html=True)
-st.markdown('<h3 class="main-title">📊 Jhoan Sebastiam Saldarriaga</h3>', unsafe_allow_html=True)
+st.markdown('<h3 class="main-title">📊 Jhoan Sebastian Saldarriaga</h3>', unsafe_allow_html=True)
 st.markdown('<h3 class="main-title">📊 Ingrid Lorena Rubio</h3>', unsafe_allow_html=True)
 
 # -------------------------------------------------------
@@ -1281,4 +1281,5 @@ with st.sidebar:
     </div>
 
     """, unsafe_allow_html=True)
+
 
